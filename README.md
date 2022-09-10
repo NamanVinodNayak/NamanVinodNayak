@@ -19,3 +19,9 @@ Here are some ideas to get you started:
 <!--   <img src="https://codestats-readme.vercel.app/api?username=NamanVinodNayak&show_icons&theme=nightowl" alt="NamanVinodNayak's code::stats stats">
  -->
 </p>
+
+
+<p align='center'>
+  <a href="#"><img src=" 	https://github-readme-stats.vercel.app/api/top-langs/?username=NamanVinodNayak&theme=blue-green" width="350"></a>
+  
+</p>
