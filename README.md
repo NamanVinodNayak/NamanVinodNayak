@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanVinodNayak&theme=blue-green" ></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanVinodNayak&theme=blue-green" width="350"></a>
   
 </p>
 
