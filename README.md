@@ -22,16 +22,13 @@ Here are some ideas to get you started:
 
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanVinodNayak&theme=blue-green" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanVinodNayak&theme=blue-green" ></a>
   
 </p>
 
 
 
-<p align='center'>
-  <a href="#"><img src="https://starchart.cc/{NamanVinodNayak}/{NamanVinodNayak}.svg" width="350"></a>
-  
-</p>
+
 
 
 
