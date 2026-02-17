@@ -1,9 +1,3 @@
-README.md
-
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
-
 <h1 align="center">Hey 👋 I'm Naman Nayak!</h1>
 
 ###
