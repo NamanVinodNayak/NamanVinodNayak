@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm Naman Nayak! 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&height=30&lines=Python%20Automation%20Engineer%3BSoftware%20Development%20Engineer%20in%20Test%3BSoftware%20Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&height=30&lines=Python%20Automation%20Engineer%3BSoftware%20Engineer" alt="Typing SVG" />
 </div>
 
 <br/>
