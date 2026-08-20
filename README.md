@@ -1,52 +1,36 @@
-<h1 align="center">Hey 👋 I'm Naman Nayak!</h1>
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" height="60" alt="pytest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" height="60" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="60" alt="bitbucket logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="60" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="60" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="60" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="60" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="60" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img src="https://github.com/github.png" width="150" height="150" style="border-radius: 50%;" />
 </div>
 
-###
+<h1 align="center">Hi there, I'm Naman Nayak! 👋</h1>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=NamanVinodNayak&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&height=30&lines=Python%20Automation%20Engineer%3BSoftware%20Development%20Engineer%20in%20Test%3BSoftware%20Engineer" alt="Typing SVG" />
 </div>
 
-###
+<br/>
 
+
+<h2 align="center">About Me 🚀</h2>
+
+<p align="center">I'm a passionate Python Automation Engineer (SDET) who enjoys building reliable and scalable test automation solutions. I specialize in Python, Pytest, Selenium, API testing, and automation frameworks, with a strong focus on improving software quality through efficient testing and continuous automation.</p>
+
+<h2 align="center">Tech Stack 💻</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,selenium,git,bitbucket,aws,fastapi&perline=10&theme=dark" />
+</div>
+
+<h2 align="center">GitHub Stats 📊</h2>
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/streak?username=NamanVinodNayak&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/activity?username=NamanVinodNayak&theme=tokyo-night&hide_border=false" alt="Activity Graph" />
+</div>
+
+---
+
+<br/>
